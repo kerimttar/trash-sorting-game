@@ -20,3 +20,6 @@ An interactive, web-based recycling simulation built to practice **HTML5 Drag an
 
 ---
 *Future Updates (V2): Scoring system and multiple recycling categories.*
+
+
+https://kerimttar.github.io/trash-sorting-game/
